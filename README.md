@@ -171,9 +171,6 @@ So, d = 517.
 
 ## 👩‍💻 Author
 [Dyuti Mengji](https://github.com/DyutiM25)
-Arizona State University — CSE 539 Applied Cryptography
-Fall 2025
-
 
 
 
