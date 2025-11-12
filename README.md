@@ -192,7 +192,7 @@ You can verify encryption-decryption symmetry by:
 - Encrypting a known plaintext.
 - Decrypting the resulting ciphertext with the same parameters.
 
-##⚠️ Error Handling
+## ⚠️ Error Handling
 - Invalid IV length → Raises ValueError.
 - Invalid hex string → Raises argparse.ArgumentTypeError.
 - Non-positive modulus 𝑁 → Raises ValueError.
